@@ -1,6 +1,7 @@
 # Dictionary mapping participants' names to their favourite movies
 favourite_movies = {
-    "Presenter": "Inception"
+    "Presenter": "Inception", 
+    "Somebody": "Something"
 }
 
 
